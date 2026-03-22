@@ -1,0 +1,7 @@
+{
+  "name": "STEM Expert AI",
+  "description": "Trợ lý AI chuyên sâu dành cho giáo viên STEM (Toán, Lý, Hóa, Tin) với khả năng giải đáp học thuật, sư phạm và công nghệ.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
