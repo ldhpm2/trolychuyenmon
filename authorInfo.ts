@@ -6,6 +6,6 @@ export const AUTHOR_INFO = {
     role: 'Giáo viên',
     appName: 'STEM Education Expert AI',
     version: '1.0.0',
-    year: 2026,
+    year: 2024,
 };
 
